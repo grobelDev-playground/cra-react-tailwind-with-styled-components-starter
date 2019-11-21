@@ -16,6 +16,8 @@ styled: "styled-components"
 }
 };
 
+## 3. Done! Try using this repo's App.js code to test installation.
+
 <br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
