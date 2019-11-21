@@ -10,11 +10,7 @@ npx create-react-app ./ && npm install --save styled-components && npm install t
 ## 2. Create a file named 'babel-plugin-macros.config.js' at root (where the package.json is).
 
 Put this code inside it: <br />
-module.exports = {
-tailwind: {
-styled: "styled-components"
-}
-};
+`module.exports = { tailwind: { styled: "styled-components" } };`
 
 ## 3. Done! Try using this repo's App.js code to test installation.
 
