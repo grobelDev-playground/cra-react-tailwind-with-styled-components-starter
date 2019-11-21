@@ -5,8 +5,13 @@ Create-React-App (CRA) combined with styled-components + Tailwind CSS.
 
 ## 1. Installation Commands
 
+1.1: - Create React App in your chosen directory.
+`npx create-react-app MY_PROJECT_NAME`
+
+1.2: - cd into your directory and execute these commands.
+
 ```
-npx create-react-app ./ && npm install --save styled-components && npm install tailwindcss && npm install --save-dev tailwind.macro@next && npm audit fix
+npm install --save styled-components && npm install tailwindcss && npm install --save-dev tailwind.macro@next && npm audit fix
 ```
 
 ## 2. Create a file named 'babel-plugin-macros.config.js' at root (where the package.json is).
