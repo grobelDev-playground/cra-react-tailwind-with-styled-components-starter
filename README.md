@@ -5,10 +5,10 @@ Create-React-App (CRA) combined with styled-components + Tailwind CSS.
 
 ## 1. Installation
 
-1.1: Create React App in your chosen directory. <br />
+1.1: Create React App in the chosen directory. <br />
 `npx create-react-app MY_PROJECT_NAME`
 
-1.2: cd into your directory and execute these commands.
+1.2: cd into the directory and execute these commands.
 
 ```
 npm install --save styled-components && npm install tailwindcss && npm install --save-dev tailwind.macro@next && npm audit fix
